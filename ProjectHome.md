@@ -1,0 +1,1 @@
+It's config files for opensips 1.8 and FS 1.2
